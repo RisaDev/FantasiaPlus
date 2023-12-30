@@ -1,7 +1,7 @@
 # Fantasia+
 Fantasia+ is a Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance. Namely it allows you to apply character bone manipulations during gameplay.
 
-Fantasia+ is a re-implementation of [Customize+](https://github.com/XIV-Tools/CustomizePlus) plugin.
+Fantasia+ is a re-implementation and drop-in replacement of [Customize+](https://github.com/XIV-Tools/CustomizePlus) plugin.
 
 ### Changes compared to Customize+ (as of 1.0.0)
 * Almost everything has been completely rewritten from scratch.
