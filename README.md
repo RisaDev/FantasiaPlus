@@ -18,6 +18,8 @@ Fantasia+ is a re-implementation and drop-in replacement of [Customize+](https:/
 * Compatibility with cutscenes is improved, but that was not extensively tested.
 * Profiles can be applied to summons, mounts and pets. Root scaling is not available for mounts for now.
 * User interface issues related to different resolutions and font sizes should *mostly* not occur anymore.
+* Chat commands have been changed, refer to `/fantasia help` for information about available commands.
+	* Added `toggle` chat command which can be used to toggle given profile on a given character.
 
 ### Installing
 ⚠ Make sure you don't have original Customize+ installed. Don't worry, removing it will not remove your settings and profiles. **If Fantasia+ detects Customize+ it will automatically turn itself off.**
